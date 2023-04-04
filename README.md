@@ -35,7 +35,7 @@
 
 This is a project for personal portfolio Which will be used to show personal skills, expriances and projects once it's completed.
 
-https://www.loom.com/share/f529434d7ff448d89ec20f922c37374a
+
 
 **[Portfolio]** is a project for personal portfolio Which will be used to show personal skills, expriances and projects.
 
@@ -81,7 +81,7 @@ https://www.loom.com/share/f529434d7ff448d89ec20f922c37374a
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- <a href="https://getssh.github.io/personal-portfolio/">Live Demo</a>
+- <a href="https://amara-bethel.github.io/my-portfolio/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,11 +99,7 @@ In order to run this project you need:
 
 * installed node js
 
-### Setup
 
-Clone this repository to your desired folder:
-
-git clone https://github.com/getssh/personal-portfolio
 
 ### Install
 
@@ -136,11 +132,9 @@ Set up a deployment in package.json and run deploy
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Getayawkal Tamrat**
+👤 **Amara Bethel**
 
-- GitHub: [@githubhandle](https://github.com/getssh)
-- Twitter: [@twitterhandle](https://twitter.com/GetayawkalT)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/getayawkal-tamrat/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
